@@ -1,6 +1,3 @@
-# SpringBootRESTApp
-Register a user, upload &amp; view images
-
 # Imgur Image Uploader REST API
 
 Application is registered with
@@ -44,4 +41,3 @@ POST request
 Will return immediately as the image download and consequent upload to imgur happens asynchronously.
 
 
- 
